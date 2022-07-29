@@ -25,10 +25,10 @@ Previous Post Held:	A former political post held by the candidate
 Referee: A lecturer standing as a guarantor
 Comment on the aspirant: Comment of the referree backing the candidate
 ### DATA VISUALIZATION 📊
-I used Tableau desktop for the Visualization. This is my first time creating a visuals.
+I used Tableau desktop for the Visualization. This is my first time creating a visual.
 ### ANALYSIS 📈📉
 ![NSBS dashboard](https://user-images.githubusercontent.com/101089830/181726420-56bed7ee-c1a1-4d22-b0ad-37dbd68a63d8.jpg)
-This visual showed there were 5 males and 3 females who filled the form for the Student Legislative Council (SLC). This shows the strong interest in female to represent in the house.
+This visual, shows there were 5 males and 3 females who filled the form for the Student Legislative Council (SLC). This shows the strong interest of female representations in the house.
 There were four level of classes which includes; 100, 200, 300 & 400 level students all from the NSBS department. Most candidates came from 300 level, having a total of  4 candidates, followed by 100 level having two candidates, then 200 level and 300 level having one (1) candidate each.
 There are three (3) numbers of post being vied for; "Honourable, Assistant general secretary, and the student legislative council". Out of the eight(8) forms, six(6) candidates went for the "Honourable" postion, one (1) candidate went for Assistant general secretary, while the last one (1) candidate went for the SLC position.
 Due to the previous position being held, only three (3) candidates previously held a position in the house, making them not new in house.
