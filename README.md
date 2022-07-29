@@ -21,7 +21,7 @@ Department: Academic department
 Matric No.:	Student ID number
 Level:	Academic level
 CGPA:	Cummulative Grade Point Average of the student
-Previous Post Held:	A former political post held by the candidate
+Previous Post Held:	A former political post held by the candidate in the house
 Referee: A lecturer standing as a guarantor
 Comment on the aspirant: Comment of the referree backing the candidate
 ### DATA VISUALIZATION 📊
@@ -41,6 +41,7 @@ Only candidates with a CGPA of 3.50 and above has upper hand over other lower CG
 ### RECOMMENDATIONS 📝
 I can highly contribute that Afinah T. H. of 300 level should be disqualified as she doesn’t meet the requirement of submitting her CGPA for screening.
 The male who have previously handled a position in the house are to be asked about what they have contributed to the past association and how they plan on improving if they emerge.
+Sulaimon A. O. of 300 level with CGPA of 3.38 wouldn’t be given much priority, and also the 100 level students Zikrullah Z. A. and Oladipupo I. A. Wouldn’t be given much priority due to their first time of being a student.
 
 
 This is my first GitHub respository and my first visualization after completing my Google Data Analytics professional certificate.
