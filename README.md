@@ -27,6 +27,7 @@ Comment on the aspirant: Comment of the referree backing the candidate
 ### DATA VISUALIZATION 📊
 I used Tableau desktop for the Visualization. This is my first time creating a visual.
 ### ANALYSIS 📈📉
+Interact with the dashboard [hear](https://public.tableau.com/views/NSBSReport/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ![NSBS dashboard](https://user-images.githubusercontent.com/101089830/181726420-56bed7ee-c1a1-4d22-b0ad-37dbd68a63d8.jpg)
 This visual, shows there were 5 males and 3 females who filled the form for the Student Legislative Council (SLC). This shows the strong interest of female representations in the house.
 There were four level of classes which includes; 100, 200, 300 & 400 level students all from the NSBS department. Most candidates came from 300 level, having a total of  4 candidates, followed by 100 level having two candidates, then 200 level and 300 level having one (1) candidate each.
